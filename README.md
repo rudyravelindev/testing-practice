@@ -21,7 +21,7 @@ A collection of pure JavaScript functions built using Test-Driven Development (T
 Clone the repo and install dependencies:
 
 ```bash
-git clone <https://github.com/rudyravelindev/testing-practice>
+git clone https://github.com/rudyravelindev/testing-practice
 cd testing-practice
 npm install
 ```
